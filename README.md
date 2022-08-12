@@ -1,4 +1,4 @@
-<img src="https://github.com/dzendos/Console-Shop/blob/master/logo.jpg" alt="logo" width="400">  
+<img src="logo.jpg" width="400">  
 
 # GoGreen
 A console application where the customer can explore information about product and buy it. In addition, the seller can edit, add or delete the product.
